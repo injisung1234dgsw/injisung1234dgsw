@@ -4,4 +4,4 @@
 
 ### What I'm Working On
 
-웹과 앱 개발을 함께 공부하며 React 기반 UI 구
+웹과 앱 개발을 함께 공부하며 React 기반 UI 구현
