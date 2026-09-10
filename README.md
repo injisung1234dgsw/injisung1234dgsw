@@ -1,3 +1,3 @@
 <div align="center">
 
-<img src="./header.svg alt="INJISUNG prof
+<img src="./header.svg alt="INJISUNG profi
