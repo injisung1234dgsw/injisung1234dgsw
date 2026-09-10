@@ -1,1 +1,1 @@
-<div align="ce
+<div align="cen
