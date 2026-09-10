@@ -4,4 +4,4 @@
 
 ### What I'm Working On
 
-웹과 앱 개발을 함
+웹과 앱 개발을 함께
