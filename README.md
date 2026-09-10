@@ -1,3 +1,3 @@
 <div align="center">
 
-<img src="./header.svg alt="INJISU
+<img src="./header.svg alt="INJISUN
