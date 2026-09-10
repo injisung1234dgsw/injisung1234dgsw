@@ -2,4 +2,4 @@
 
 <img src="./header.svg" alt="INJISUNG profile header" width="100%"/>
 
-### What I'm Working O
+### What I'm Working On
