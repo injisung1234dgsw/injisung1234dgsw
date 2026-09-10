@@ -1,3 +1,3 @@
 <div align="center">
 
-<img src="./header.svg alt="INJISUNG profil
+<img src="./header.svg alt="INJISUNG profile
