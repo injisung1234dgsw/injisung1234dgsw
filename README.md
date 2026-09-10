@@ -1,3 +1,3 @@
 <div align="center">
 
-<img src="./header.svg alt="INJ
+<img src="./header.svg alt="INJI
