@@ -1,1 +1,1 @@
-<div align="cent
+<div align="cente
