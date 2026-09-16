@@ -33,6 +33,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=20232A"/>
+  <img src="https://img.shields.io/badge/expo-%231C1E24.svg?style=for-the-badge&logo=expo&logoColor=%23D04A37"/>
 </p>
 
 #### Backend
@@ -87,7 +88,7 @@
 
 <img src="./divider.svg" alt="" width="100%"/>
 
-###GitAnimals
+### GitAnimals
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=injisung0818-spec&utm_content=farm">
 <img
