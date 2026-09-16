@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 #### Tools
@@ -69,10 +69,10 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=flat-square&logo=ollama&logoColor=white"?>
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=%2300C7B7"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
 </p>
 
 <img src="./divider.svg" alt="" width="100%"/>
