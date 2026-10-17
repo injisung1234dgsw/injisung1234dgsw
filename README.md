@@ -14,6 +14,18 @@
 대구소프트웨어마이스터고에서 **프론트엔드**를 전공하고 있습니다.<br>
 **React**와 **Figma**로 화면을 만들고, 부전공인 **서버·보안** 지식으로 서비스의 안정성을 더합니다.
 
+<br>
+
+<p>
+  <a href="https://injisung.dev">
+    <img
+      src="https://img.shields.io/badge/Portfolio-injisung.dev-F7F7F7?style=flat-square&logo=googlechrome&logoColor=4B4B4B&labelColor=F7F7F7&color=F7F7F7"
+      alt="Portfolio"
+      height="28"
+    />
+  </a>
+</p>
+
 <img src="./divider.svg" alt="" width="100%"/>
 
 ### 🛠 Tech Stack
@@ -95,11 +107,11 @@
 ### GitAnimals
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=injisung0818-spec&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/injisung0818-spec"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/farms/injisung0818-spec"
+    width="600"
+    height="300"
+  />
 </a>
 
 <img src="./divider.svg" alt="" width="100%"/>
