@@ -16,15 +16,8 @@
 
 <br>
 
-<a href="https://injisung.dev">
-  <img
-    src="https://img.shields.io/badge/Portfolio-injisung.dev-FFFFFF?style=flat-square&logo=googlechrome&logoColor=555555&labelColor=F1F1F1&color=FFFFFF"
-    alt="Portfolio — injisung.dev"
-    height="24"
-  />
-</a>
+<sub><a href="https://injisung.dev">injisung.dev ↗</a></sub>
 
-<br><br>
 <img src="./divider.svg" alt="" width="100%"/>
 
 ### 🛠 Tech Stack
@@ -106,11 +99,11 @@
 ### GitAnimals
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=injisung0818-spec&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/injisung0818-spec"
-    width="600"
-    height="300"
-  />
+<img
+  src="https://render.gitanimals.org/farms/injisung0818-spec"
+  width="600"
+  height="300"
+/>
 </a>
 
 <img src="./divider.svg" alt="" width="100%"/>
@@ -120,6 +113,8 @@
   <a href="mailto:injisung0818@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-injisung0818%40gmail.com-F7F7F7?style=flat-square&logo=gmail&logoColor=4B4B4B&labelColor=F7F7F7&color=F7F7F7"/></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/injisung_00/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-injisung__00-F7F7F7?style=flat-square&logo=instagram&logoColor=4B4B4B&labelColor=F7F7F7&color=F7F7F7"/></a>
+  &nbsp;&nbsp;
+  <a href="https://injisung.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-injisung.dev-F7F7F7?style=flat-square&logo=googlechrome&logoColor=4B4B4B&labelColor=F7F7F7&color=F7F7F7"/></a>
 </p>
 
 </div>
