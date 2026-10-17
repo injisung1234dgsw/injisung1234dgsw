@@ -16,15 +16,10 @@
 
 <br>
 
-<p>
-  <a href="https://injisung.dev">
-    <img
-      src="https://img.shields.io/badge/Portfolio-injisung.dev-F7F7F7?style=flat-square&logo=googlechrome&logoColor=4B4B4B&labelColor=F7F7F7&color=F7F7F7"
-      alt="Portfolio"
-      height="28"
-    />
-  </a>
-</p>
+<a href="https://injisung.dev"><strong>Portfolio ↗</strong></a><br>
+<sub>injisung.dev</sub>
+
+<br><br>
 
 <img src="./divider.svg" alt="" width="100%"/>
 
