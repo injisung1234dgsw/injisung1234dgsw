@@ -16,11 +16,15 @@
 
 <br>
 
-<a href="https://injisung.dev"><strong>Portfolio ↗</strong></a><br>
-<sub>injisung.dev</sub>
+<a href="https://injisung.dev">
+  <img
+    src="https://img.shields.io/badge/Portfolio-injisung.dev-FFFFFF?style=flat-square&logo=googlechrome&logoColor=555555&labelColor=F1F1F1&color=FFFFFF"
+    alt="Portfolio — injisung.dev"
+    height="24"
+  />
+</a>
 
 <br><br>
-
 <img src="./divider.svg" alt="" width="100%"/>
 
 ### 🛠 Tech Stack
