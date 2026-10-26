@@ -79,6 +79,7 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="./assets/codex-badge.svg" alt="Codex" height="28"/>
+  <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
 </p>
 
 <img src="./divider.svg" alt="" width="100%"/>
