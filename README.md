@@ -13,7 +13,9 @@
 
 대구소프트웨어마이스터고에서 **프론트엔드**를 전공하고 있습니다.<br>
 **React**와 **Figma**로 화면을 만들고, 부전공인 **서버·보안** 지식으로 서비스의 안정성을 더합니다.<br>
-<sub><a href="https://injisung.dev">injisung.dev ↗</a></sub>
+<a href="https://injisung.dev">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20my%20portfolio-injisung.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"/>
+</a>
 
 <img src="./divider.svg" alt="" width="100%"/>
 
