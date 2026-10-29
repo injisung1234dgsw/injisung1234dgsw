@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="./assets/gsap-badge-v2.svg" alt="GSAP" height="28"/>
+  <img src="./assets/gsap-badge-v3.svg" alt="GSAP" height="28"/>
   <img src="./assets/lenis-badge-v2.svg" alt="Lenis" height="28"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
 </p>
