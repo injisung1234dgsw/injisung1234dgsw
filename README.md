@@ -91,7 +91,7 @@
 ### Music
 
 <img
-  src="https://record-rotate.injisung0818.workers.dev/music-v7.svg?width=760&title=on&albums=back%20number:%E6%B0%B4%E5%B9%B3%E7%B7%9A,Mrs.%20GREEN%20APPLE:%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF,ZUTOMAYO:%E6%B2%88%E9%A6%99%E5%AD%A6,BUMP%20OF%20CHICKEN:ray,Hump%20Back:%E6%8B%9D%E5%95%93%E3%80%81%E5%B0%91%E5%B9%B4%E3%82%88,Mrs.%20GREEN%20APPLE:Ao%20to%20Natsu,Peppertones:Beginner%27s%20Luck,%EC%9D%8C%EC%9C%A8:%ED%96%89%EB%B3%B5%EB%A1%A0&v=6"
+  src="https://record-rotate.injisung0818.workers.dev/music-v7.svg?width=760&title=on&albums=back%20number:%E6%B0%B4%E5%B9%B3%E7%B7%9A,Hump%20Back:%E6%8B%9D%E5%95%93%E3%80%81%E5%B0%91%E5%B9%B4%E3%82%88,ZUTOMAYO:%E6%B2%88%E9%A6%99%E5%AD%A6,Peppertones:Beginner%27s%20Luck,Mrs.%20GREEN%20APPLE:Ao%20to%20Natsu,BUMP%20OF%20CHICKEN:ray,%EC%9D%8C%EC%9C%A8:%ED%96%89%EB%B3%B5%EB%A1%A0,Mrs.%20GREEN%20APPLE:%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF&v=7"
   alt="Favorite music carousel"
   width="100%"
 />
