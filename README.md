@@ -50,11 +50,11 @@
 #### Learning Now
 
 <p>
+  <img src="./assets/lenis-badge-v3.svg" alt="Lenis" height="28"/>
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="./assets/gsap-badge-v4.svg" alt="GSAP" height="28"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="./assets/lenis-badge-v3.svg" alt="Lenis" height="28"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
